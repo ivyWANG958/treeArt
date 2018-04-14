@@ -1,0 +1,76 @@
+{
+    "name": "Arts",
+    "children": [{
+            "name": "Philosophy",
+            "children": [{
+                    "name": "inner world",
+                    "children": [{
+                        "name": "Discerning worldviews",
+                        "children": [{
+                                "name": "research paper",
+
+                                "size": 3990
+                            },
+                            { "name": "my love theory", "size": 4220 }
+                        ]
+                    }]
+                },
+                {
+                    "name": "dream",
+                    "children": [
+                        { "name": "dream interpretation and peresonal growth", "size": 3534 }
+                    ]
+                },
+                {
+                    "name": "outer world",
+                    "children": [
+                        { "name": "Mysticism and religious experience", "size": 1983 },
+
+                        { "name": "Moral challenges in Chinese culture", "size": 2042 }
+                    ]
+                }
+            ]
+        }, {
+            "name": "communication",
+            "children": [
+
+                {
+                    "name": "Journalism",
+                    "children": [
+                        { "name": "English writings", "size": 1983 },
+
+                        { "name": "Chinese writings", "size": 2042 },
+                        { "name": "Broadcast writings", "size": 4325 }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "name": "Social science",
+            "children": [{
+                "name": "History",
+                "children": [{
+                        "name": "Chinese history",
+                        "children": [{ "name": "misconceptions about Chinese history and civilization", "size": 721 }]
+                    },
+                    {
+                        "name": "Western history",
+                        "children": [{ "name": "introduction to Christianity and civilization", "size": 4294 }]
+                    }
+                ]
+            }]
+        },
+        {
+            "name": "Public Speaking",
+            "children": [
+                { "name": "how to speak and how to listern", "size": 8833 }
+
+
+            ]
+        }
+
+
+    ]
+
+}
