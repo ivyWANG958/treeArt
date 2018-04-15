@@ -3,7 +3,7 @@
     "children": [{
             "name": "Philosophy",
             "children": [{
-                    "name": "inner world",
+                    "name": "Inner world",
                     "children": [{
                         "name": "Discerning worldviews",
                         "children": [{
@@ -17,13 +17,13 @@
                     }]
                 },
                 {
-                    "name": "dream",
+                    "name": "Dream",
                     "children": [
                         { "name": "dream interpretation and peresonal growth", "size": 3534 }
                     ]
                 },
                 {
-                    "name": "outer world",
+                    "name": "Outer world",
                     "children": [
                         { "name": "Mysticism and religious experience", "size": 1983 },
 
@@ -32,7 +32,7 @@
                 }
             ]
         }, {
-            "name": "communication",
+            "name": "Communication",
             "children": [
 
                 {
@@ -44,7 +44,7 @@
                     ]
                 },
                 {
-                    "name": "film",
+                    "name": "Film",
                     "children": [
                         { "name": "film review: Journalim as a calling", "size": 8833 }
 
