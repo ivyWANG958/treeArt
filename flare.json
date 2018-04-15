@@ -11,7 +11,8 @@
 
                                 "size": 3990
                             },
-                            { "name": "my love theory", "size": 4220 }
+                            { "name": "my love theory", "size": 4220 },
+                            { "name": "weekly reflections", "size": 2768 }
                         ]
                     }]
                 },
@@ -38,9 +39,24 @@
                     "name": "Journalism",
                     "children": [
                         { "name": "English writings", "size": 1983 },
-
                         { "name": "Chinese writings", "size": 2042 },
                         { "name": "Broadcast writings", "size": 4325 }
+                    ]
+                },
+                {
+                    "name": "film",
+                    "children": [
+                        { "name": "film review: Journalim as a calling", "size": 8833 }
+
+
+                    ]
+                },
+                {
+                    "name": "Public Speaking",
+                    "children": [
+                        { "name": "how to speak and how to listern", "size": 8833 }
+
+
                     ]
                 }
 
@@ -52,23 +68,16 @@
                 "name": "History",
                 "children": [{
                         "name": "Chinese history",
-                        "children": [{ "name": "misconceptions about Chinese history and civilization", "size": 721 }]
+                        "children": [{ "name": "Chinese history and civilization", "size": 721 }]
                     },
                     {
                         "name": "Western history",
-                        "children": [{ "name": "introduction to Christianity and civilization", "size": 4294 }]
+                        "children": [{ "name": "Christianity and civilization", "size": 4294 }]
                     }
                 ]
             }]
-        },
-        {
-            "name": "Public Speaking",
-            "children": [
-                { "name": "how to speak and how to listern", "size": 8833 }
-
-
-            ]
         }
+
 
 
     ]
